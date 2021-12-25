@@ -1,0 +1,4 @@
+#!/bin/bash
+
+zip -d stm32f4_dsp_stdperiph_lib.zip STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Libraries/CMSIS/Lib/ARM/*
+zip -d stm32f4_dsp_stdperiph_lib.zip STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/stm32f4xx_dsp_stdperiph_lib_um.chm
